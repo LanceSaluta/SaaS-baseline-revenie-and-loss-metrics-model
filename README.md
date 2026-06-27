@@ -6,7 +6,7 @@ This data analysis project sources the "SaaS Business Metrics: Customers, Plans 
 ## Dashboard Download
 Since the dashboard was created in PowerBI Desktop, a download link will instead be provided to the .pbix file:
 
-[Click here to download the .pbix file]
+[Click here to download the .pbix file](https://github.com/LanceSaluta/SaaS-baseline-revenie-and-loss-metrics-model/raw/refs/heads/main/SaaS%20Baseline%20Revenue%20and%20Loss%20Metrics%20Model.pbix)
 
 Clicking the link will download a file which can be opened in PowerBi desktop where the dashboard can be interacted with.
 
